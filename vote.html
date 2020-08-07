@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Vote Now | Is Susan Collins Concerned?</title>
+    <link rel="stylesheet" href="votestyle.css" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+    <center>
+        <h1 class="top-header">Make Your Opinion Count</h1>
+        <h2>Is Susan Collins Concerned?</h2>
+        <h2>Vote From 1-10 How Concerned You Think Susan Collins Is</h2>
+        <table>
+            <tr>
+                <td>Enter Your Vote Here:</td>
+                <td>
+                    <input type="number" name="vote" placeholder="Enter Your Vote" maxlength="2" class="vote-text-box" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" name="submitvote" form="submitform" class="submitbutton"/>
+                </td>
+            </tr>
+        </table>
+        <form id="submitform" name="submitform" action="votesubmitted.html" method="get"></form>
+    </center>
+</body>
+</html>

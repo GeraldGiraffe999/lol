@@ -1,0 +1,39 @@
+﻿body
+{
+    background-color: deepskyblue;
+    font-family: Arial;
+}
+.top-bar
+{
+    background-color: dodgerblue;
+    width: auto;
+}
+.sctext{
+    position: center;
+}
+.mdatext{
+    color: red;
+}
+.backbutton
+{
+    background-color: #f71414;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
+.bottom-bar {
+    background-color: black;
+    width: auto;
+    height: 100px;
+}
+
+.mpamtdt {
+    font-weight: bold;
+}
+.randomizer
+{
+background-color: #f71414;
+width: 100px;
+height: 50px;
+cursor: pointer;
+}

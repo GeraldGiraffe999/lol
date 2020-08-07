@@ -1,0 +1,28 @@
+﻿body
+{
+    font-family: Arial;
+    background-color: deepskyblue;
+}
+.backbutton {
+    background-color: #f71414;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.bottom-bar {
+    background-color: black;
+    width: auto;
+    height: 100px;
+}
+.mpamtmt
+{
+    font-weight: bold;
+}
+.learn
+{
+    width: 100px;
+    height: 50px;
+    background-color: #f71414;
+    cursor: pointer;
+}
